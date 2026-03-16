@@ -55,8 +55,7 @@
 <img width="1918" height="913" alt="Screenshot 2026-03-11 160724" src="https://github.com/user-attachments/assets/a41614bb-6d4d-44ad-83b0-f3bd0b6f6622" />
 
 
-### Name:V Jagan Kumar
-### Register Number:212225100018
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
